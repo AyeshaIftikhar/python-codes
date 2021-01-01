@@ -1,0 +1,7 @@
+This folder includes some data structures used in python by using built-in libraries.
+Some most common of them are:
+	1.DataFrames
+	2.Arrays
+	3.Series
+
+These files have all the basic implementations of these data structures.

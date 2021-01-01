@@ -1,0 +1,9 @@
+For the working of these codes, you need to install the following libraries:
+
+pip install pandas
+pip install numpy 
+pip install openpyxl
+pip install xlrd
+
+#NOTE: 
+You can install these libraries by using in the any way you want to install them.
